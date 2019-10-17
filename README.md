@@ -1,8 +1,7 @@
 # helloWorld
 <html>
   <head>
-    <title>
-    </title>
+    <title>Project</title>
   </head>
   <body>
     <p>Hello World</p>
